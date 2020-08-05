@@ -1,5 +1,5 @@
 <h1>
-  <img src=".github/proffy-banner.png"/>
+  <img src="./images/proffy-banner.png"/>
 </h1>
 
 <h4 align=center><em>"Falar pode até ser útil para quem está ouvindo, documentações são úteis para todos." - Empresa lukin</em></h4>
